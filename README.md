@@ -17,7 +17,4 @@ https://www.tampermonkey.net/index.php
 
 On Dashboard add a new script (+ left of installed), paste this into it, save. Don't forget to enable it.
 
-
-
-
 Script was last updated on Jan 2023
