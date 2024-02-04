@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Anti French Layout
 // @namespace    http://tampermonkey.net/
-// @version      0.3
+// @version      0.3.1
 // @description  Anti-French-English
 // @author       Me
 // @match        *://*/*
@@ -9,7 +9,7 @@
 // @grant        none
 // ==/UserScript==
 
-let blocklist = ['fr', 'ja', 'en']; //add ur own here if u see one not using standart
+let blocklist = ['fr', 'ja', 'en', 'es', 'nl', 'da']; //add ur own here if u see one not using standart
 
 (function () {
     'use strict';
